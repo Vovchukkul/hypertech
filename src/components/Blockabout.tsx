@@ -15,5 +15,5 @@ export const Blockabout: React.FC<Props> = ({ number, maintext, subtext }) => {
         <div className="block_about-subtext">{subtext}</div>
       </div>
     </div>
-  )
+  );
 }
